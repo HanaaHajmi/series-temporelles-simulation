@@ -6,8 +6,6 @@ Simulation de séries temporelles financières en Python.
 
 ### `brownien_gbm.ipynb`
 
-Notebook sur le **Mouvement Brownien Géométrique (GBM)** :
-
 - Mouvement brownien standard
 - GBM par la méthode d'**Euler-Maruyama**
 - GBM par la solution exacte (**lemme d'Itô**)
@@ -46,6 +44,3 @@ jupyter notebook brownien_gbm.ipynb
 
 ---
 
-## Auteur
-
-Hanaa Hajmi — 2024
